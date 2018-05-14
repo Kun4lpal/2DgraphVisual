@@ -1,0 +1,48 @@
+﻿/////////////////////////////////////////////////////////////////////////////
+// ver 3.0                                                                  //
+// Language:     C++ 11                                                     //
+// Application:  Summer Project                                             //
+// Summer project 2017                                                      //
+//https://www.codeproject.com/Articles/165368/WPF-MVVM-Quick-Start-Tutorial //
+// From MVVM tutorial                                                       //
+// Author:       Kunal Paliwal, Syracuse University, Summer Project         //
+//                (315) 876-8002, kupaliwa@syr.edu                          //
+//////////////////////////////////////////////////////////////////////////////
+
+using System;
+using System.Linq.Expressions;
+using System.Reflection;
+
+namespace MVVM
+{
+    public static class PropertySupport
+    {
+        public static String ExtractPropertyName<T>(Expression<Func<T>> propertyExpresssion)
+        {
+            if (propertyExpresssion == null)
+            {
+                throw new ArgumentNullException("propertyExpresssion");
+            }
+
+            var memberExpression = propertyExpresssion.Body as MemberExpression;
+            if (memberExpression == null)
+            {
+                throw new ArgumentException("The expression is not a member access expression.", "propertyExpresssion");
+            }
+
+            var property = memberExpression.Member as PropertyInfo;
+            if (property == null)
+            {
+                throw new ArgumentException("The member access expression does not access a property.", "propertyExpresssion");
+            }
+
+            var getMethod = property.GetGetMethod(true);
+            if (getMethod.IsStatic)
+            {
+                throw new ArgumentException("The referenced property is a static property.", "propertyExpresssion");
+            }
+
+            return memberExpression.Member.Name;
+        }
+    }
+}

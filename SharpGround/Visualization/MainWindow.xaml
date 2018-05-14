@@ -1,0 +1,83 @@
+﻿<Window x:Class="Visualization.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Visualization"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="481" Width="808">
+
+    <Window.Resources>
+        <DataTemplate 
+            DataType="{x:Type local:MassParticleViewModel}"
+            >
+            <Ellipse
+                Height="{Binding Diameter}"
+                Width="{Binding Diameter}"
+                Stroke="{Binding Color}"
+                Fill="{Binding Color}"
+                ToolTip="{Binding ToolTip}"
+                
+                />
+        </DataTemplate>
+
+        <DataTemplate
+            DataType="{x:Type local:EdgeViewModel}"
+            >
+            <Line
+                Stroke="{Binding Color}"
+                StrokeThickness="0.5"
+                X1="{Binding X1}"
+                Y1="{Binding Y1}"
+                X2="{Binding X2}"
+                Y2="{Binding Y2}"
+                />
+        </DataTemplate>
+    </Window.Resources>
+
+    <Window.DataContext>
+
+        <!-- 
+        Initialise the view model that supplies the UI with data.
+        -->
+        <local:ViewModel />
+
+    </Window.DataContext>
+    <Canvas Height="450" Width="800" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
+        <StackPanel>
+            <Button Content="Start" Name ="start_button" HorizontalAlignment="Left"  VerticalAlignment="Bottom"  Width="75" Click="Button_Click"/>
+            <Button Content="Pause" Name ="pause_button"  HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="75" Click="Button_Click_Pause" Visibility="Hidden"/>
+        </StackPanel>
+        <Canvas Name="canvas"/>
+        <ItemsControl
+            ItemsSource="{Binding Vertices}"
+            >
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Canvas />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemContainerStyle>
+                <Style>
+                    <Setter
+                        Property="Canvas.Left"
+                        Value="{Binding X}"
+                        />
+                    <Setter
+                        Property="Canvas.Top"
+                        Value="{Binding Y}"
+                        />
+                </Style>
+            </ItemsControl.ItemContainerStyle>
+        </ItemsControl>
+        <ItemsControl
+            ItemsSource="{Binding Edges}"
+            >
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Canvas />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+        </ItemsControl>
+    </Canvas>
+</Window>

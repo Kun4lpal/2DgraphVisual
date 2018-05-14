@@ -1,0 +1,2057 @@
+
+  <Database>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\FileMgr\IFileMgr.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        8
+      </Key>
+      <ChildCollection>
+        
+      </ChildCollection>
+      <ParentCollection>
+        5|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        IFileMgr.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Tokenizer\Tokenizer.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        64
+      </Key>
+      <ChildCollection>
+        20|7|
+      </ChildCollection>
+      <ParentCollection>
+        20|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        Tokenizer.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\AbstractSyntaxTree\AbstrSynTree.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        0
+      </Key>
+      <ChildCollection>
+        1|2|36|
+      </ChildCollection>
+      <ParentCollection>
+        19|36|37|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        AbstrSynTree.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\SemiExp\itokcollection.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        1
+      </Key>
+      <ChildCollection>
+        
+      </ChildCollection>
+      <ParentCollection>
+        0|10|19|4|21|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        itokcollection.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\ScopeStack\ScopeStack.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        2
+      </Key>
+      <ChildCollection>
+        17|7|58|
+      </ChildCollection>
+      <ParentCollection>
+        0|19|58|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        ScopeStack.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Analyzer\Executive.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        3
+      </Key>
+      <ChildCollection>
+        4|5|6|7|37|
+      </ChildCollection>
+      <ParentCollection>
+        37|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Executive.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Parser\Parser.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        4
+      </Key>
+      <ChildCollection>
+        1|54|
+      </ChildCollection>
+      <ParentCollection>
+        3|19|6|37|53|54|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Parser.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\FileMgr\FileMgr.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        5
+      </Key>
+      <ChildCollection>
+        8|9|39|
+      </ChildCollection>
+      <ParentCollection>
+        3|37|39|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        FileMgr.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Parser\ConfigureParser.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        6
+      </Key>
+      <ChildCollection>
+        4|19|21|20|53|
+      </ChildCollection>
+      <ParentCollection>
+        3|37|53|54|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        ConfigureParser.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Utilities\Utilities.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        7
+      </Key>
+      <ChildCollection>
+        69|
+      </ChildCollection>
+      <ParentCollection>
+        3|2|36|37|44|51|52|54|58|64|69|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Utilities.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\FileSystem\FileSystem.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        9
+      </Key>
+      <ChildCollection>
+        40|
+      </ChildCollection>
+      <ParentCollection>
+        5|19|37|40|54|55|65|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        FileSystem.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\GrammarHelpers\GrammarHelpers.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        10
+      </Key>
+      <ChildCollection>
+        1|44|
+      </ChildCollection>
+      <ParentCollection>
+        19|44|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        GrammarHelpers.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\KeyValueDatabase\Database.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        11
+      </Key>
+      <ChildCollection>
+        12|13|45|
+      </ChildCollection>
+      <ParentCollection>
+        13|16|23|28|45|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Database.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\KeyValueDatabase\Entry.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        12
+      </Key>
+      <ChildCollection>
+        14|46|
+      </ChildCollection>
+      <ParentCollection>
+        11|46|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Entry.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\KeyValueDatabase\Persister.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        13
+      </Key>
+      <ChildCollection>
+        11|15|47|
+      </ChildCollection>
+      <ParentCollection>
+        11|47|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Persister.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\KeyValueDatabase\Utilities.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        14
+      </Key>
+      <ChildCollection>
+        50|
+      </ChildCollection>
+      <ParentCollection>
+        12|50|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Utilities.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlDocument\XmlDocument.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        15
+      </Key>
+      <ChildCollection>
+        30|72|
+      </ChildCollection>
+      <ParentCollection>
+        13|72|78|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        XmlDocument.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\KeyValueDatabase\Query.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        16
+      </Key>
+      <ChildCollection>
+        11|48|
+      </ChildCollection>
+      <ParentCollection>
+        48|49|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Query.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Logger\Logger.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        17
+      </Key>
+      <ChildCollection>
+        18|51|
+      </ChildCollection>
+      <ParentCollection>
+        19|2|37|44|51|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Logger.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Cpp11-BlockingQueue\Cpp11-BlockingQueue.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        18
+      </Key>
+      <ChildCollection>
+        38|
+      </ChildCollection>
+      <ParentCollection>
+        17|38|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Cpp11-BlockingQueue.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Parser\ActionsAndRules.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        19
+      </Key>
+      <ChildCollection>
+        4|10|1|2|20|21|0|17|9|52|
+      </ChildCollection>
+      <ParentCollection>
+        6|29|27|37|52|53|54|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        ActionsAndRules.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Tokenizer\Tokenizer.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        20
+      </Key>
+      <ChildCollection>
+        64|
+      </ChildCollection>
+      <ParentCollection>
+        19|6|21|26|53|54|59|64|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Tokenizer.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\SemiExp\SemiExp.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        21
+      </Key>
+      <ChildCollection>
+        20|1|59|
+      </ChildCollection>
+      <ParentCollection>
+        19|6|26|44|53|54|59|63|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        SemiExp.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Publisher\CodePublisher.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        22
+      </Key>
+      <ChildCollection>
+        23|55|
+      </ChildCollection>
+      <ParentCollection>
+        37|55|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        CodePublisher.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TypeBasedDependencyAnalysis\DependencyAnalysis.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        23
+      </Key>
+      <ChildCollection>
+        11|27|65|
+      </ChildCollection>
+      <ParentCollection>
+        22|37|65|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        DependencyAnalysis.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TestFiles\TBDA_test_another.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        24
+      </Key>
+      <ChildCollection>
+        25|61|
+      </ChildCollection>
+      <ParentCollection>
+        61|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        TBDA_test_another.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TestFiles\TBDA_test.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        25
+      </Key>
+      <ChildCollection>
+        60|
+      </ChildCollection>
+      <ParentCollection>
+        24|60|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        TBDA_test.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TestFiles\Test1.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        26
+      </Key>
+      <ChildCollection>
+        21|20|62|
+      </ChildCollection>
+      <ParentCollection>
+        62|63|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Test1.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TypeBasedDependencyAnalysis\TypeTable.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        27
+      </Key>
+      <ChildCollection>
+        19|68|
+      </ChildCollection>
+      <ParentCollection>
+        23|29|68|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        TypeTable.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TypeBasedDependencyAnalysis\StrongComponent.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        28
+      </Key>
+      <ChildCollection>
+        11|66|
+      </ChildCollection>
+      <ParentCollection>
+        37|66|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        StrongComponent.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TypeBasedDependencyAnalysis\TypeAnalysis.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        29
+      </Key>
+      <ChildCollection>
+        19|27|67|
+      </ChildCollection>
+      <ParentCollection>
+        37|67|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        TypeAnalysis.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlElement\XmlElement.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        30
+      </Key>
+      <ChildCollection>
+        73|
+      </ChildCollection>
+      <ParentCollection>
+        15|34|73|78|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        XmlElement.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlElementParts\xmlElementParts.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        31
+      </Key>
+      <ChildCollection>
+        32|33|76|
+      </ChildCollection>
+      <ParentCollection>
+        34|78|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        xmlElementParts.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlElementParts\ITokCollection.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        32
+      </Key>
+      <ChildCollection>
+        
+      </ChildCollection>
+      <ParentCollection>
+        31|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        ITokCollection.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlElementParts\tokenizer.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        33
+      </Key>
+      <ChildCollection>
+        
+      </ChildCollection>
+      <ParentCollection>
+        31|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        tokenizer.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlParser\XmlParser.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        34
+      </Key>
+      <ChildCollection>
+        35|31|30|78|
+      </ChildCollection>
+      <ParentCollection>
+        72|78|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        XmlParser.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlElementParts\itokcollection.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        35
+      </Key>
+      <ChildCollection>
+        
+      </ChildCollection>
+      <ParentCollection>
+        34|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        itokcollection.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\AbstractSyntaxTree\AbstrSynTree.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        36
+      </Key>
+      <ChildCollection>
+        0|7|
+      </ChildCollection>
+      <ParentCollection>
+        0|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        AbstrSynTree.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Analyzer\Executive.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        37
+      </Key>
+      <ChildCollection>
+        3|4|9|5|19|6|0|17|7|23|29|28|22|
+      </ChildCollection>
+      <ParentCollection>
+        3|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Executive.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Cpp11-BlockingQueue\Cpp11-BlockingQueue.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        38
+      </Key>
+      <ChildCollection>
+        18|
+      </ChildCollection>
+      <ParentCollection>
+        18|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Cpp11-BlockingQueue.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\FileMgr\FileMgr.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        39
+      </Key>
+      <ChildCollection>
+        5|
+      </ChildCollection>
+      <ParentCollection>
+        5|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        FileMgr.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\FileSystem\FileSystem.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        40
+      </Key>
+      <ChildCollection>
+        9|
+      </ChildCollection>
+      <ParentCollection>
+        9|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        FileSystem.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\FileSystem\TestFileSystem\FileSystemTest.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        41
+      </Key>
+      <ChildCollection>
+        42|
+      </ChildCollection>
+      <ParentCollection>
+        
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        FileSystemTest.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\FileSystem\TestFileSystem\UnitTest.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        42
+      </Key>
+      <ChildCollection>
+        43|
+      </ChildCollection>
+      <ParentCollection>
+        41|43|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        UnitTest.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\FileSystem\TestFileSystem\UnitTest.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        43
+      </Key>
+      <ChildCollection>
+        42|
+      </ChildCollection>
+      <ParentCollection>
+        42|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        UnitTest.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\GrammarHelpers\GrammarHelpers.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        44
+      </Key>
+      <ChildCollection>
+        10|21|17|7|
+      </ChildCollection>
+      <ParentCollection>
+        10|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        GrammarHelpers.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\KeyValueDatabase\Database.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        45
+      </Key>
+      <ChildCollection>
+        11|
+      </ChildCollection>
+      <ParentCollection>
+        11|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Database.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\KeyValueDatabase\Entry.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        46
+      </Key>
+      <ChildCollection>
+        12|
+      </ChildCollection>
+      <ParentCollection>
+        12|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Entry.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\KeyValueDatabase\Persister.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        47
+      </Key>
+      <ChildCollection>
+        13|
+      </ChildCollection>
+      <ParentCollection>
+        13|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Persister.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\KeyValueDatabase\Query.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        48
+      </Key>
+      <ChildCollection>
+        16|
+      </ChildCollection>
+      <ParentCollection>
+        16|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Query.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\KeyValueDatabase\TestExec.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        49
+      </Key>
+      <ChildCollection>
+        16|
+      </ChildCollection>
+      <ParentCollection>
+        
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        TestExec.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\KeyValueDatabase\Utilities.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        50
+      </Key>
+      <ChildCollection>
+        14|
+      </ChildCollection>
+      <ParentCollection>
+        14|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Utilities.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Logger\Logger.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        51
+      </Key>
+      <ChildCollection>
+        17|7|
+      </ChildCollection>
+      <ParentCollection>
+        17|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        Logger.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Parser\ActionsAndRules.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        52
+      </Key>
+      <ChildCollection>
+        19|7|
+      </ChildCollection>
+      <ParentCollection>
+        19|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:23
+      </TimeModified>
+      <Value>
+        ActionsAndRules.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Parser\ConfigureParser.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        53
+      </Key>
+      <ChildCollection>
+        4|21|20|19|6|
+      </ChildCollection>
+      <ParentCollection>
+        6|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        ConfigureParser.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Parser\Parser.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        54
+      </Key>
+      <ChildCollection>
+        7|20|21|4|19|6|9|
+      </ChildCollection>
+      <ParentCollection>
+        4|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        Parser.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Publisher\CodePublisher.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        55
+      </Key>
+      <ChildCollection>
+        22|9|56|
+      </ChildCollection>
+      <ParentCollection>
+        22|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        CodePublisher.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Publisher\markup.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        56
+      </Key>
+      <ChildCollection>
+        57|
+      </ChildCollection>
+      <ParentCollection>
+        55|57|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        markup.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Publisher\markup.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        57
+      </Key>
+      <ChildCollection>
+        56|
+      </ChildCollection>
+      <ParentCollection>
+        56|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        markup.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\ScopeStack\ScopeStack.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        58
+      </Key>
+      <ChildCollection>
+        2|7|
+      </ChildCollection>
+      <ParentCollection>
+        2|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        ScopeStack.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\SemiExp\SemiExp.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        59
+      </Key>
+      <ChildCollection>
+        21|20|
+      </ChildCollection>
+      <ParentCollection>
+        21|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        SemiExp.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TestFiles\TBDA_test.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        60
+      </Key>
+      <ChildCollection>
+        25|
+      </ChildCollection>
+      <ParentCollection>
+        25|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        TBDA_test.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TestFiles\TBDA_test_another.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        61
+      </Key>
+      <ChildCollection>
+        24|
+      </ChildCollection>
+      <ParentCollection>
+        24|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        TBDA_test_another.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TestFiles\Test1.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        62
+      </Key>
+      <ChildCollection>
+        26|
+      </ChildCollection>
+      <ParentCollection>
+        26|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        Test1.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TestFiles\Test2.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        63
+      </Key>
+      <ChildCollection>
+        21|26|
+      </ChildCollection>
+      <ParentCollection>
+        
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        Test2.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TypeBasedDependencyAnalysis\DependencyAnalysis.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        65
+      </Key>
+      <ChildCollection>
+        23|9|
+      </ChildCollection>
+      <ParentCollection>
+        23|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        DependencyAnalysis.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TypeBasedDependencyAnalysis\StrongComponent.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        66
+      </Key>
+      <ChildCollection>
+        28|
+      </ChildCollection>
+      <ParentCollection>
+        28|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        StrongComponent.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TypeBasedDependencyAnalysis\TypeAnalysis.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        67
+      </Key>
+      <ChildCollection>
+        29|
+      </ChildCollection>
+      <ParentCollection>
+        29|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        TypeAnalysis.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\TypeBasedDependencyAnalysis\TypeTable.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        68
+      </Key>
+      <ChildCollection>
+        27|
+      </ChildCollection>
+      <ParentCollection>
+        27|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        TypeTable.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\Utilities\Utilities.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        69
+      </Key>
+      <ChildCollection>
+        7|
+      </ChildCollection>
+      <ParentCollection>
+        7|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        Utilities.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\Utilities\Utilities.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        70
+      </Key>
+      <ChildCollection>
+        71|
+      </ChildCollection>
+      <ParentCollection>
+        71|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        Utilities.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\Utilities\Utilities.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        71
+      </Key>
+      <ChildCollection>
+        70|
+      </ChildCollection>
+      <ParentCollection>
+        70|72|78|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        Utilities.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlDocument\XmlDocument.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        72
+      </Key>
+      <ChildCollection>
+        15|34|71|
+      </ChildCollection>
+      <ParentCollection>
+        15|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        XmlDocument.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlElement\XmlElement.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        73
+      </Key>
+      <ChildCollection>
+        30|
+      </ChildCollection>
+      <ParentCollection>
+        30|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        XmlElement.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlElementParts\Tokenizer.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        74
+      </Key>
+      <ChildCollection>
+        75|
+      </ChildCollection>
+      <ParentCollection>
+        75|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        Tokenizer.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlElementParts\Tokenizer.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        75
+      </Key>
+      <ChildCollection>
+        74|
+      </ChildCollection>
+      <ParentCollection>
+        74|78|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        Tokenizer.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlElementParts\xmlElementParts.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        76
+      </Key>
+      <ChildCollection>
+        77|
+      </ChildCollection>
+      <ParentCollection>
+        31|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        xmlElementParts.cpp
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlElementParts\XmlElementParts.h
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        77
+      </Key>
+      <ChildCollection>
+        
+      </ChildCollection>
+      <ParentCollection>
+        76|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        XmlElementParts.h
+      </Value>
+    </Entry>
+    <Entry>
+      <Category>
+        
+      </Category>
+      <Description>
+        C:\CodeAnalyzerExModified\XmlDocument\XmlParser\XmlParser.cpp
+      </Description>
+      <Name>
+        
+      </Name>
+      <Key>
+        78
+      </Key>
+      <ChildCollection>
+        34|31|15|30|75|71|
+      </ChildCollection>
+      <ParentCollection>
+        34|
+      </ParentCollection>
+      <TimeModified>
+        2017/07/27 05:19:24
+      </TimeModified>
+      <Value>
+        XmlParser.cpp
+      </Value>
+    </Entry>
+  </Database>
